@@ -1,1 +1,2 @@
 Change from Branch A
+Change from Branch B
